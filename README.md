@@ -12,4 +12,6 @@
   - 💬 Ask me about my journey and how I chose programming as a career path.
   - 📫 How to reach me: sumaiyamohamed58@gmail.com  | https://www.linkedin.com/in/sumaiya-mohamed-38445b267/
   - ⚡ Fun fact: The computer is never wrong.
+  - Projects: Book connect App (https://github.com/Sumaiya-Mohamed/SUMMOH081_FTC2301_GROUPB_SumaiyaMohamed_ITW19), Restuarant ordering App (https://github.com/Sumaiya-Mohamed/IWA18),
+    Calender App(https://github.com/Sumaiya-Mohamed/IWA17), Personal Portfolio (https://github.com/Sumaiya-Mohamed/SUMMOH081_FTC2301_GROUPC_SumaiyaMohamed_ITW9).
 
