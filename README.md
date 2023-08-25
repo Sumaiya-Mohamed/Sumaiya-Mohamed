@@ -13,6 +13,6 @@
   - 💬 Ask me about my journey and how I chose programming as a career path.
   - 📫 How to reach me: sumaiyamohamed58@gmail.com  | https://www.linkedin.com/in/sumaiya-mohamed-38445b267/
   - ⚡ Fun fact: The computer is never wrong.
-  - Projects: Book connect App(https://github.com/Sumaiya-Mohamed/Book-Connect-App__Html__CSS__Javascript.git), Podify 
+  - Projects: Book connect App(https://github.com/Sumaiya-Mohamed/Book-Connect-html_Css_Javascript.git), Podify 
     (https://github.com/Sumaiya-Mohamed/Podify_React_Redux_Typescript_vite.git), Personal Portfolio(https://github.com/Sumaiya-Mohamed/Personal-Portfolio_React_Typescript_HTML_CSS.git).
 
